@@ -73,6 +73,13 @@ Recent accessibility training includes:
 - [Bioneurosincronia](https://bioneurosincronia.org/)
 - [Psicologia Ester Colet](https://psicologiaestercolet.com/)
 
+## 🔌 Featured open-source plugin — EU2673 Withdrawal Button
+
+**EU2673 Withdrawal Button** is my open-source WooCommerce plugin for managing customer withdrawal requests, including guest orders, acknowledgement emails, a public withdrawal form, product exclusions, digital-content consent and multilingual support.
+
+- [Source code on GitHub](https://github.com/eligeunaweb/eu2673-withdrawal-button)
+- [Official plugin on WordPress.org](https://wordpress.org/plugins/eu2673-withdrawal-button/)
+
 ## 💻 Projects on GitHub
 
 ### Executive Dashboard
