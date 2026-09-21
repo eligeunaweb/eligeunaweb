@@ -82,11 +82,11 @@ Recent accessibility training includes:
 
 ## 💻 Projects on GitHub
 
-### Executive Dashboard
-A Python/data project focused on business information and dashboard workflows.
+### [Executive Dashboard for Odoo Community](https://github.com/eligeunaweb/executive_dashboard)
+Multi-version Odoo Community module (15–19) with executive KPIs, sales/invoicing charts, stock and purchasing alerts, top-customer reporting, live refresh and multi-company support.
 
-### Proyecto Final MUSK
-Training project developed as part of my recent Python and AI learning path.
+### [Data Analysis Final Project — MUSK](https://github.com/eligeunaweb/PROYECTO-FINAL-MUSK)
+Python project that combines JSON and CSV datasets, calculates 10 metrics and generates a structured report. It demonstrates OOP, functional programming, Pandas, pytest and automated validation with GitHub Actions.
 
 > I'm currently documenting and organizing more of my professional work for GitHub. Much of my previous development was produced for client and commercial projects, so only work that can be shared publicly will be published here.
 
