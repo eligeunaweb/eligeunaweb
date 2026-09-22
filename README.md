@@ -33,7 +33,9 @@ Madrid, Spain · 7 May 2026
 
 ## ⚙️ Odoo
 
-I have developed **10+ custom Odoo modules** across versions **15 to 19**, including custom fields, forms, workflows and business functionality.
+I develop custom Odoo modules across versions **15 to 19**, covering business workflows, dashboards, custom models, forms, security, infrastructure inventory and integrations.
+
+Public examples on GitHub include a multi-version Executive Dashboard and a free Server & DNS Management module for Odoo 15/16. Commercial modules are maintained separately.
 
 ## 🐍 Python, Data & AI
 
@@ -81,6 +83,9 @@ Recent accessibility training includes:
 - [Official plugin on WordPress.org](https://wordpress.org/plugins/eu2673-withdrawal-button/)
 
 ## 💻 Projects on GitHub
+
+### [Odoo SysAdmin — Server & DNS Management](https://github.com/eligeunaweb/odoo-sysadmin-server-management)
+Free Odoo 15/16 module for documenting server infrastructure by customer: hardware, network interfaces, IPv4/IPv6/MAC information, DNS zones and records, responsible users, status tracking, validation and Odoo access controls.
 
 ### [Executive Dashboard for Odoo Community](https://github.com/eligeunaweb/executive_dashboard)
 Multi-version Odoo Community module (15–19) with executive KPIs, sales/invoicing charts, stock and purchasing alerts, top-customer reporting, live refresh and multi-company support.
