@@ -85,14 +85,14 @@ Recent accessibility training includes:
 
 - [Source code on GitHub](https://github.com/eligeunaweb/eu2673-withdrawal-button)
 - [Official plugin on WordPress.org](https://wordpress.org/plugins/eu2673-withdrawal-button/)
-- [official Prestashop.com](https://addons.prestashop.com/es/mejorar-satisfaccion-clientes/98069-withdrawal-button-eu-directive-2023-2673.html?search_query_id=95c64c410b9eaabd0786f106c01e85cc&search_index=Products_ES_relevance)
+- [Official Prestashop.com](https://addons.prestashop.com/es/mejorar-satisfaccion-clientes/98069-withdrawal-button-eu-directive-2023-2673.html?search_query_id=95c64c410b9eaabd0786f106c01e85cc&search_index=Products_ES_relevance)
 
 ## 💻 Projects on GitHub
 
-### [Odoo SysAdmin — Server & DNS Management](https://github.com/eligeunaweb/odoo-sysadmin-server-management)
-Free Odoo 15/16 module for documenting server infrastructure by customer: hardware, network interfaces, IPv4/IPv6/MAC information, DNS zones and records, responsible users, status tracking, validation and Odoo access controls.
+### [Odoo SysAdmin — Server & DNS Management]([https://github.com/eligeunaweb/odoo-sysadmin-server-management](https://apps.odoo.com/apps/modules/19.0/euw_it_infrastructure))
+Odoo 15/19 module for documenting server infrastructure by customer: hardware, network interfaces, IPv4/IPv6/MAC information, DNS zones and records, responsible users, status tracking, validation and Odoo access controls.
 
-### [Executive Dashboard for Odoo Community](https://github.com/eligeunaweb/executive_dashboard)
+### [Executive Dashboard for Odoo Community]([https://github.com/eligeunaweb/executive_dashboard](https://apps.odoo.com/apps/modules/19.0/euw_executive_dashboard))
 Multi-version Odoo Community module (15–19) with executive KPIs, sales/invoicing charts, stock and purchasing alerts, top-customer reporting, live refresh and multi-company support.
 
 ### [Data Analysis Final Project — MUSK](https://github.com/eligeunaweb/PROYECTO-FINAL-MUSK)
