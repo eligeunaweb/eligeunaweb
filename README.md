@@ -37,6 +37,8 @@ I develop custom Odoo modules across versions **15 to 19**, covering business wo
 
 Public examples on GitHub include a multi-version Executive Dashboard and a free Server & DNS Management module for Odoo 15/16. Commercial modules are maintained separately.
 
+Apps: https://apps.odoo.com/apps/modules/browse?repo_maintainer_id=504437
+
 ## 🐍 Python, Data & AI
 
 I'm currently expanding my development background with practical training in:
