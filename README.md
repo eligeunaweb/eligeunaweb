@@ -67,6 +67,8 @@ Recent accessibility training includes:
 - Accessibility fundamentals
 - W3C / edX web accessibility training — in progress
 
+- Blind Reader: https://adaptatuweb.com/blind-reader/
+
 ## 🌐 Selected web work
 
 - [Adapta tu Web](https://adaptatuweb.com)
