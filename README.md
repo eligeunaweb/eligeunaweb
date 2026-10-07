@@ -85,6 +85,7 @@ Recent accessibility training includes:
 
 - [Source code on GitHub](https://github.com/eligeunaweb/eu2673-withdrawal-button)
 - [Official plugin on WordPress.org](https://wordpress.org/plugins/eu2673-withdrawal-button/)
+- [official Prestashop.com](https://addons.prestashop.com/es/mejorar-satisfaccion-clientes/98069-withdrawal-button-eu-directive-2023-2673.html?search_query_id=95c64c410b9eaabd0786f106c01e85cc&search_index=Products_ES_relevance)
 
 ## 💻 Projects on GitHub
 
